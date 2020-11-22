@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f4fc69d.chunk.css",
+    "main.js": "/static/js/main.9020e7ee.chunk.js",
+    "main.js.map": "/static/js/main.9020e7ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9c41f45b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9c41f45b.js.map",
+    "static/css/2.31461e4f.chunk.css": "/static/css/2.31461e4f.chunk.css",
+    "static/js/2.1339df54.chunk.js": "/static/js/2.1339df54.chunk.js",
+    "static/js/2.1339df54.chunk.js.map": "/static/js/2.1339df54.chunk.js.map",
+    "static/js/3.85f1dc24.chunk.js": "/static/js/3.85f1dc24.chunk.js",
+    "static/js/3.85f1dc24.chunk.js.map": "/static/js/3.85f1dc24.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.4f4fc69d.chunk.css.map": "/static/css/main.4f4fc69d.chunk.css.map",
+    "static/js/2.1339df54.chunk.js.LICENSE.txt": "/static/js/2.1339df54.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/wds011402.902a7ab0.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c41f45b.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.1339df54.chunk.js",
+    "static/css/main.4f4fc69d.chunk.css",
+    "static/js/main.9020e7ee.chunk.js"
+  ]
+}
